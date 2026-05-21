@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://aurumlabprague.cz/sitemap.xml
+
+# Crawl-delay для уважения к серверу
+Crawl-delay: 1
